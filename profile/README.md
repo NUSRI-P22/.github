@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is the NO.22 Project of ECE, NUSRI.
+This is the AY23-24 NO.22 Project of ECE, NUSRI.
 
 For more information, please click [HERE](https://github.com/NUSRI-P22/NUSRI-P22).
